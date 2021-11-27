@@ -2,12 +2,9 @@
 
 
 ## 😄Summary
-
----
 I am a back-end developer and interested in AI and have expertise in it. I worked on exciting projects in the field of Banking systems, VAT, Financial markets. But, in real life, I'm a geek and a traveler. one of my approaches is the desire to do teamwork to improve and get the best result for the team and company.
 
 ## 🔭Work Experience
----
 ### Freelancer (Full stack Developer) ,      01/2021 – Now 
 - Developed Features for Human Resource Management (HRM) project
 - Develop an online booking system
@@ -26,7 +23,21 @@ I am a back-end developer and interested in AI and have expertise in it. I worke
 - Collaboration on Travian Game Core from the Travian Games GmbH series of games 
 - Rewrite and developer “PCPin” opensource messenger
 
+## 🌱Education
+### Master’s degree – Artificial Intelligence and Robotics (2012 – 2016)
+#### Islamic Azad University, Science and Research Branch
+- NeuroMarketing in industries with Dr. Bani Rostam
+- Enhancments in destroyed and old images with Dr. Abbas Koochari
+- Iris Recognition with Dr. Abbas Koochari
+- Implementation of Genetic, Particle Swarm Optimization, Differential evolutionary algorithms for Evolution Computing on Prediction Stocks Datasets with Dr. Arash Sharifi
+- Diffrent Analysis with Pattern Recognition on UCI Datasets with Dr. Mirza Rezaei
+- A Review on Chaos Theory in Cognitive Science with Dr. Tooraj Bani Rostam
 
+### Bachelor’s degree – Software Engineer
+#### Islamic Azad University, Karaj Branch
+- Veterinary Hospital Automaition with Dr. Shabnam Asbaghi
+- A social recommender mechanism for location-based group commerce with Dr. Rana Forsati
+- Elevator company sales Automation system with Dr. Shabnam Asbaghi
 
 
 
