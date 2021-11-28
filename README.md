@@ -47,6 +47,11 @@ I am a back-end developer and interested in AI and have expertise in it. I worke
 - Improving the Prediction of Cryptocurrencies Movement using Adversarial Training - (📅 Jan 2021)
     - IDS2020 – Springer publication
 
+## ⚡Hobbys
+- 🎥Watch movies
+- 📚Read books
+- 🏃TRX workout
+- 🛫Traveling and camping
 
 
 
