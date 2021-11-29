@@ -30,18 +30,18 @@ I am a back-end developer and interested in AI and have expertise in it. I worke
 ## 🏫Education
 ### Master’s degree – Artificial Intelligence and Robotics (📅 2017 - 2019)
 #### Islamic Azad University, Science and Research Branch 
-- NeuroMarketing in industries with Dr. Bani Rostam
-- Enhancments in destroyed and old images with Dr. Abbas Koochari
-- Iris Recognition with Dr. Abbas Koochari
-- Implementation of Genetic, Particle Swarm Optimization, Differential evolutionary algorithms for Evolution Computing on Prediction Stocks Datasets with Dr. Arash Sharifi
-- Diffrent Analysis with Pattern Recognition on UCI Datasets with Dr. Mirza Rezaei
-- A Review on Chaos Theory in Cognitive Science with Dr. Tooraj Bani Rostam
+- **NeuroMarketing in industries** with Dr. Bani Rostam
+- **Enhancments in destroyed and old images** with Dr. Abbas Koochari
+- **Iris Recognition** with Dr. Abbas Koochari
+- **Implementation of Genetic, Particle Swarm Optimization, Differential evolutionary algorithms for Evolution Computing on Prediction Stocks Datasets** with Dr. Arash Sharifi
+- **Diffrent Analysis with Pattern Recognition on UCI Datasets** with Dr. Mirza Rezaei
+- **A Review on Chaos Theory in Cognitive Science** with Dr. Tooraj Bani Rostam
 
 ### Bachelor’s degree – Software Engineer (📅 2012 - 2016)
 #### Islamic Azad University, Karaj Branch
-- Veterinary Hospital Automaition with Dr. Shabnam Asbaghi
-- A social recommender mechanism for location-based group commerce with Dr. Rana Forsati
-- Elevator company sales Automation system with Dr. Shabnam Asbaghi
+- **Veterinary Hospital Automaition** with Dr. Shabnam Asbaghi
+- **A social recommender mechanism for location-based group commerce** with Dr. Rana Forsati
+- **Elevator company sales Automation system** with Dr. Shabnam Asbaghi
 
 ## 📰Papers
 - Improving the Prediction of Cryptocurrencies Movement using Adversarial Training - (📅 Jan 2021)
