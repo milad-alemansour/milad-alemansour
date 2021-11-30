@@ -16,8 +16,8 @@ I am a back-end developer and interested in AI and have expertise in it. I worke
 ### 3️⃣ Java Developer (📅 07/2019 – 08/2016)
 #### Hamavaran
 - **VAS:** Design and develop VAS (Value-Added-Services) collaborating with “MCI” and “MTN” Mobile operators.
-- **Advertising System: **Design and Develop Digital Advertise marketing with “PPC,” PPV,” “Iframes,” “POPUP,” and advertising on mobile platforms methods.
--** Messenger:** Design and develop multi-application messenger, Features: P2P chat, Groups, Channels, Media Transfer
+- **Advertising System:** Design and Develop Digital Advertise marketing with “PPC,” PPV,” “Iframes,” “POPUP,” and advertising on mobile platforms methods.
+- **Messenger:** Design and develop multi-application messenger, Features: P2P chat, Groups, Channels, Media Transfer
 - **Flexible Social CMS:** Develop a Social Core platform to create and run social media with one click and ready-to-use API s for it.
 - **Wallet and Payment System:** Design and Develop Wallet for customer payments and transactions, collaborating with “Asan-Pardakht” to offer services like Buy mobile internet plans directly, Topup, Bill payment, Pay Vehicle Violations.
 ### 4️⃣ Full stack Developer (📅 07/2016 – 12/2015)
@@ -44,7 +44,7 @@ I am a back-end developer and interested in AI and have expertise in it. I worke
 - **Elevator company sales Automation system** with Dr. Shabnam Asbaghi
 
 ## 📰Papers
-- Improving the Prediction of Cryptocurrencies Movement using Adversarial Training - (📅 Jan 2021)
+- **Improving the Prediction of Cryptocurrencies Movement using Adversarial Training** - (📅 Jan 2021)
     - IDS2020 – Springer publication
 
 ## ⚡Hobbys
